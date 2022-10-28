@@ -3,7 +3,6 @@
 Learn the basics of Javascript.
 
 ![Discord](https://img.shields.io/discord/1014190469628055552)
-![GitHub Repo stars](https://img.shields.io/github/stars/akenolol/javascript-fundamentals?style=social)
 
 ## Authors
 
