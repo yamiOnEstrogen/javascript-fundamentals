@@ -6,7 +6,7 @@ Learn the basics of Javascript.
 
 ## Authors
 
-- [@akenolol](https://www.github.com/akenolol)
+- [@akenolol](https://twitter.com/akeno_dev)
 
 
 ## Acknowledgements
